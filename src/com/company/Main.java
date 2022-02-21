@@ -8,5 +8,6 @@ public class Main {
         int b = 55;
 
         System.out.println(Math.addExact(a,b));
+        System.out.println("Gorjan");
     }
 }
